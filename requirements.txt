@@ -1,0 +1,9 @@
+requests
+feedparser
+beautifulsoup4
+transformers
+torch
+pandas
+spacy
+sentencepiece
+gtts
